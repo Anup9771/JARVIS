@@ -26,4 +26,4 @@ It can perform basic tasks using voice or text commands.
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/jarvis.git
+   git clone https://github.com/Anup9771/jarvis.git
